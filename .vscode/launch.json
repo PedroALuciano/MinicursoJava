@@ -5,6 +5,13 @@
       "type": "java",
       "name": "TodolistApplication",
       "request": "launch",
+      "mainClass": "TodolistApplication",
+      "projectName": "todolist"
+    },
+    {
+      "type": "java",
+      "name": "TodolistApplication",
+      "request": "launch",
       "mainClass": "br.com.pedroluciano.todolist.TodolistApplication",
       "projectName": "todolist"
     },
